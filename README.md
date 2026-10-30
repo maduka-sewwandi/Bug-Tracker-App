@@ -30,7 +30,7 @@ Version Control: Git & GitHub
 
 Getting Started
 1. Clone the Repo
-git clone https://github.com/MadukaSewwandi/Bug-Tracker-App.git
+git clone https://github.com/maduka-sewwandi/Bug-Tracker-App.git
 cd Bug-Tracker-App/server
 
 2. Install Dependencies
@@ -78,7 +78,7 @@ Author
 
 Maduka Sewwandi
 
-GitHub: https://github.com/MadukaSewwandi
+GitHub: https://github.com/maduka-sewwandi
 
 
 License
